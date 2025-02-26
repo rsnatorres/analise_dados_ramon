@@ -38,3 +38,6 @@ Análises de dados:
 6) crawler.ipynb
 - Crawlers utilizado para minerar dados de imóveis de um portal de imobiliárias.
 
+7) tese_analise_estatistica.ipynb
+- Análise estatística avançanda com modelos de séries temporais
+
